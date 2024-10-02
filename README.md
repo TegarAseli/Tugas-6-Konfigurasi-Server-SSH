@@ -4,7 +4,7 @@
 ### Kelas : SK3B
 ---
 
-Langkah pertama yang dilakukan yaitu mengubah setingan settingan network virtual box ke Bridged Adapter. Caranya buka aplikasi virtual box, pergi ke setting kemudian pilih ke network, pada bagian Attached to nya ubah ke Bridged Adapter![Screenshot 2024-10-02 175826](https://github.com/user-attachments/assets/8532a19b-7d15-458b-b7b8-4b30c8b92b6d)
+Langkah pertama yang dilakukan yaitu mengubah setingan settingan network virtual box ke Bridged Adapter. Caranya buka aplikasi virtual box, pergi ke setting kemudian pilih ke network, pada bagian Attached to nya ubah ke Bridged Adapter.
 
 ![Screenshot 2024-10-02 175826](https://github.com/user-attachments/assets/c398e90b-2837-4bd9-8665-e7937c8c2fde)
 
